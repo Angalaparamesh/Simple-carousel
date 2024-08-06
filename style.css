@@ -1,0 +1,39 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+h2{
+    color:white;
+    text-align:center;
+    position:relative;
+    top:140px;
+}
+.box__one{
+    background-color:rgb(196, 89, 146);
+    height:300px;
+    width:400px;
+    margin:50px;
+    margin-left:500px;
+}
+.box__one__img1{
+    height:40px;
+    width:40px;
+    position:relative;
+    top:100px;
+    right:20px;
+}
+.box__one__img2{
+    height:40px;
+    width:40px;
+    position:relative;
+    left:335px;
+    top:100px;
+}
+.dot{
+    height:50px;
+    width:50px;
+    position:relative;
+    top:240px;
+    left:90px;
+}
